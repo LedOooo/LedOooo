@@ -1,6 +1,6 @@
 # 👋 Hi, I'm ledoooo
 
-I'm a student developer from Slovakia 🇸🇰 who's on a mission to turn caffeine and curiosity into working code ☕💻  
+My name is Gabriel Hospodárik and I'm a student developer from Slovakia 🇸🇰 who's on a mission to turn caffeine and curiosity into working code ☕💻  
 I’m currently learning fullstack development, mobile apps, and backend programming — and I love real-world challenges that help me grow.
 
 ---
