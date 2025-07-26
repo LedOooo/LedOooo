@@ -10,7 +10,7 @@ I’m currently learning fullstack development, mobile apps, and backend program
 - 🎓 Student learning by doing (and debugging 😅)
 - 💻 Interested in both frontend and backend development
 - 📱 I build Android apps in Kotlin
-- 🐍 I use Python for scripting and automation, and IoT projects (Raspberry Pi, sensors, tinkering)
+- 🐍 I use Python for scripting, automation, and IoT projects (ESP32, Raspberry Pi, sensors, tinkering)
 - 🧠 Always learning — always googling
 - 🛠️ Currently freelancing for experience, not fortune (yet!)
 
@@ -33,10 +33,9 @@ I’m currently learning fullstack development, mobile apps, and backend program
 ### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
-
 ### 📡 IoT & Tinkering
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)
 
 ---
 
