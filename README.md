@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm ledoooo
 
-<!--
-**LedOooo/LedOooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student developer from Slovakia 🇸🇰 who's on a mission to turn caffeine and curiosity into working code ☕💻  
+I’m currently learning fullstack development, mobile apps, and backend programming — and I love real-world challenges that help me grow.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+- 🎓 Student learning by doing (and debugging 😅)
+- 💻 Interested in both frontend and backend development
+- 📱 I build Android apps in Kotlin
+- 🐍 I use Python for scripting and automation
+- 🧠 Always learning — always googling
+- 🛠️ Currently freelancing for experience, not fortune (yet!)
+
+---
+
+## 🧰 Tech Stack
+
+### 🌐 Web
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 📱 Mobile
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+
+### 🖥️ Programming
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 🗄️ Databases
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ledoooo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ledoooo&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let’s Connect
+
+- 🔗 Fiverr Profile coming soon!
+- 📬 Discord: led0ooo
+- 📫 Email: [smilebyled78@gmail.com](mailto:smilebyled78@gmail.com)
+- 🌍 Portfolio coming soon
+
+---
+
+> 🧊 “I might be a beginner, but I'm a reliable one. Let's build something cool — or at least make it compile!”
