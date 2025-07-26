@@ -35,15 +35,15 @@ I’m currently learning fullstack development, mobile apps, and backend program
 
 ---
 
+### 📡 IoT & Tinkering
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+
+---
+
 ## 📈 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ledoooo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ledoooo&layout=compact&theme=radical)
-
----
-
-### 📡 IoT & Tinkering
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
 
 ---
 
