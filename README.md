@@ -10,7 +10,7 @@ I’m currently learning fullstack development, mobile apps, and backend program
 - 🎓 Student learning by doing (and debugging 😅)
 - 💻 Interested in both frontend and backend development
 - 📱 I build Android apps in Kotlin
-- 🐍 I use Python for scripting and automation
+- 🐍 I use Python for scripting and automation, and IoT projects (Raspberry Pi, sensors, tinkering)
 - 🧠 Always learning — always googling
 - 🛠️ Currently freelancing for experience, not fortune (yet!)
 
@@ -39,6 +39,11 @@ I’m currently learning fullstack development, mobile apps, and backend program
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ledoooo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ledoooo&layout=compact&theme=radical)
+
+---
+
+### 📡 IoT & Tinkering
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
 
 ---
 
