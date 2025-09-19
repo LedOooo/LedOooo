@@ -25,6 +25,7 @@ I’m currently learning fullstack development, mobile apps, and backend program
 
 ### 📱 Mobile
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### 🖥️ Programming
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
