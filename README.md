@@ -9,7 +9,7 @@ I’m currently learning fullstack development, mobile apps, and backend program
 
 - 🎓 Student learning by doing (and debugging 😅)
 - 💻 Interested in both frontend and backend development
-- 📱 I build Android apps in Kotlin
+- 📱 I build Android apps in Kotlin and Flutter
 - 🐍 I use Python for scripting, automation, and IoT projects (ESP32, Raspberry Pi, sensors, tinkering)
 - 🧠 Always learning — always googling
 - 🛠️ Currently freelancing for experience, not fortune (yet!)
